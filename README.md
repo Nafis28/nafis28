@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on a Python project.
-- 🌱 I’m currently learning Python, C++ & ASM lanaguage 
+- 🌱 I’m currently learning Python, 
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help when needed
 
