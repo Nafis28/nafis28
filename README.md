@@ -5,8 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on a Python project.
-- 🌱 I’m currently learning Python, 
-- 👯 I’m looking to collaborate on Python projects
+- 🔭 I’m currently working on a project that is pure built with GOlang.
+- 🌱 I’m currently learning C, C++ and Go. 
 - 🤔 I’m looking for help when needed
 
