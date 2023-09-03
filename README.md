@@ -8,7 +8,7 @@ A little about myself
 
 
 - 🔭 I’m currently working on a project that is pure built with Golang.
-- ❤️ I mostly code using Golang 
+- ❤️ Mostly code using Java, Golang, Python
 - 🤔 I have been a Network Engineer for over 9years, Inbetween these years I have made programs and application on GUI and Web Interfaces.
 
 
