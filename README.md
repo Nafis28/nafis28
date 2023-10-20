@@ -1,3 +1,10 @@
+
+## 🚀 About Me
+I'm Nafis, a passionate developer driven to innovate and automate. Here's a bit more about me:
+- 🔭 Currently developing an automated system for Telecommunication auto provisioning.
+- 💻 I love coding in Java, Golang, and Python.
+
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -15,8 +22,3 @@
 - [LinkedIn](https://www.linkedin.com/in/nafis-haider1337/)
 
 
-
-## 🚀 About Me
-I'm Nafis, a passionate developer driven to innovate and automate. Here's a bit more about me:
-- 🔭 Currently developing an automated system for Telecommunication auto provisioning.
-- 💻 I love coding in Java, Golang, and Python.
