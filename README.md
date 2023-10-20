@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm Nafis, a passionate developer driven to innovate and automate. Here's a bit more about me:
+I'm Nafis, Here's a bit more about me:
 - 🔭 Currently developing an automated system for Telecommunication auto provisioning.
 - 💻 I love coding in Java, Golang, and Python.
 
