@@ -1,8 +1,8 @@
 
 ## 🚀 About Me
 I'm Nafis, Here's a bit more about me:
-- 🔭 Currently developing an automated system for Telecommunication auto provisioning.
-- 💻 I love coding in Java, Golang, and Python.
+- 🔭 Currently developing to help automate systems
+- 💻 I enjoy coding in Java, Golang, and Python.
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
