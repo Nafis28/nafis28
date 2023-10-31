@@ -1,8 +1,12 @@
+# <span style="color:blue">Hello, World! 👋</span>
+---
 
-## 🚀 About Me
-I'm Nafis, Here's a bit more about me:
-- 🔭 Currently developing to help automate systems
-- 💻 I enjoy coding in Java, Golang, and Python.
+
+I'm **Nafis**. Here's a little about me:
+
+- 🔧 **Developer**
+- 🌏 **Melbourne, Australia**
+- 🚀 **Interests**: Exploring new technologies, coding challenges, and continuous learning.
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
