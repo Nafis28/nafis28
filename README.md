@@ -4,7 +4,7 @@
 
 I'm **Nafis**. Here's a little about me:
 
-- 🔧 **Software Engineer**
+- 🔧 **DevOps Engineer**
 - 🌏 **Melbourne, Australia**
 
 
