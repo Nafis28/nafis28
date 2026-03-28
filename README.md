@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** and **DevOps Engineer** based in 🌏 **Melbourne, Australia**, dedicated to building robust, scalable solutions that make a difference. I love automating workflows, optimizing systems, and exploring new technologies.
+Grew up in New Zealand, Auckland based in 🌏 **Melbourne, Australia**, I like building things and automating things...
 
 ```python
 class NafisHaider:
@@ -18,7 +18,7 @@ class NafisHaider:
         self.fun_fact = "I believe in infrastructure as code!"
         
     def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing together 🚀"
+        return "Thanks for dropping by... "
 ```
 
 ## 💻 Tech Stack
@@ -45,16 +45,9 @@ class NafisHaider:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎯 Current Focus
-
-- 🔭 Building cloud-native applications with microservices architecture
-- 🌱 Exploring advanced Kubernetes patterns and service mesh technologies
-- 👯 Looking to collaborate on open-source DevOps tools
-- 🎓 Continuously learning about distributed systems and system design
-- ⚡ Automating everything that can be automated!
 
 
-## 🤝 Let's Connect!
+## 🤝 Want to Connect?
 
 <div align="center">
   
