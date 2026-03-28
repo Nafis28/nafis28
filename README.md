@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F7FFF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%7C+DevOps+Engineer;Building+Scalable+Solutions;Cloud+Architecture+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
-Grew up in New Zealand, Auckland based in 🌏 **Melbourne, Australia**, I like building things and automating things...
+Grew up in **New Zealand, Auckland** based in 🌏 **Melbourne, Australia**, I like building things and automating things...
 
 ```python
 class NafisHaider:
