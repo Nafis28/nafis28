@@ -9,13 +9,13 @@
 Grew up in **New Zealand, Auckland** based in 🌏 **Melbourne, Australia**, I like building things and automating things...
 
 ```python
-class NafisHaider:
+class NafisHaider
     def __init__(self):
-        self.location = "Melbourne, Australia 🇦🇺"
-        self.role = ["Software Developer", "DevOps Engineer"]
-        self.languages = ["Java", "Go", "Python"]
+        self.location = "Melbourne, Australia"
+        self.role = ["Software Developer", "Platform Engineer"]
+        self.languages = ["Java", "Go", "Python", "C++"]
         self.current_focus = "Cloud Native Applications"
-        self.fun_fact = "I believe in infrastructure as code!"
+        self.fun_fact = "Coding in old school C++ was fun"
         
     def say_hi(self):
         return "Thanks for dropping by... "
