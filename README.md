@@ -15,7 +15,7 @@ class NafisHaider
         self.role = ["Software Developer", "Platform Engineer"]
         self.languages = ["Java", "Go", "Python", "C++"]
         self.current_focus = "Cloud Native Applications"
-        self.fun_fact = "Coding in old school C++ was fun"
+        self.fun_fact = "Coding in old school C++ is better"
         
     def say_hi(self):
         return "Thanks for dropping by... "
